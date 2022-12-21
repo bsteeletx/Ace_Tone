@@ -1,0 +1,18 @@
+Song Title:This Love
+Name of Chord:Bdim7,Cmin,Fmin,G7
+Sharps:0
+Flats:1
+Background Screen:Images/Level1/background.png
+Chord Progression:BDFAb,CEbG,FAbC,GBDF
+Chord Sounds:Audio/Bdim7 Chord.wav
+Chord Sounds:Audio/Cmin Chord.wav
+Chord Sounds:Audio/Fmin Chord.wav
+Chord Sounds:Audio/G7 Chord.wav
+Count Off:Audio/This Love Count Off.wav
+Count Off Length:1263
+Background Music:Audio/This Love Drum Loop.m4a
+Reward Music:Audio/This Love Bop.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:60
+Score Levels:39,19

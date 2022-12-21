@@ -1,0 +1,18 @@
+Song Title:Drive
+Name of Chord:Emin,Emin9,Cmaj7,Amin7
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:EGB,EGBF#,CEGB,ACEG
+Chord Sounds:Audio/Emin Chord.wav
+Chord Sounds:Audio/Emin9 Chord.wav
+Chord Sounds:Audio/Cmaj7 Chord.wav
+Chord Sounds:Audio/Amin7 Chord.wav
+Count Off:Audio/Drive Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Drive Drum Loop.m4a
+Reward Music:Audio/Drive Bop.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:75
+Score Levels:49,24

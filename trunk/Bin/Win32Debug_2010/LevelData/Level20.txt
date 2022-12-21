@@ -1,0 +1,20 @@
+Song Title:What’s Going On
+Name of Chord:Emaj7,C#min,Emaj7,C#min,F#min,B7
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:EG#BD#,C#EG#,EG#BD#,C#EG#,F#AC#,BD#F#A
+Chord Sounds:Audio/Emaj7 Chord.wav
+Chord Sounds:Audio/C#min Chord.wav
+Chord Sounds:Audio/Emaj7 Chord.wav
+Chord Sounds:Audio/C#min Chord.wav
+Chord Sounds:Audio/F#min Chord.wav
+Chord Sounds:Audio/B7 Chord.wav
+Count Off:Audio/What’s Going On Count Off.wav
+Count Off Length:1263
+Background Music:Audio/What’s Going On Drum Loop.m4a
+Reward Music:Audio/What’s Going On.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:60
+Score Levels:39,19

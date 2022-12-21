@@ -1,0 +1,18 @@
+Song Title:Say It Ain’t So
+Name of Chord:C#min,G#maj,Amaj,Emaj
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:C#EG#,G#B#D#,AC#E,EG#B
+Chord Sounds:Audio/C#min Chord.wav
+Chord Sounds:Audio/G#maj Chord.wav
+Chord Sounds:Audio/Amaj Chord.wav
+Chord Sounds:Audio/Emaj Chord.wav
+Count Off:Audio/It Ain’t So Count Off.wav
+Count Off Length:1263
+Background Music:Audio/It Ain’t So Drum Loop.m4a
+Reward Music:Audio/It Ain’t So.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:30
+Score Levels:19,9

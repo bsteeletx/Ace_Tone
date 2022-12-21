@@ -1,0 +1,19 @@
+Song Title:Hey Joe
+Name of Chord:Cmaj,G9,Dmaj,A9,Emaj
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:CEG,GBDA,DF#A,AC#EB,EG#B
+Chord Sounds:Audio/Cmaj Chord.wav
+Chord Sounds:Audio/G9 Chord.wav
+Chord Sounds:Audio/Dmaj Chord.wav
+Chord Sounds:Audio/A9 Chord.wav
+Chord Sounds:Audio/Emaj Chord.wav
+Count Off:Audio/Hey Joe Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Hey Joe Drum Loop.m4a
+Reward Music:Audio/Hey Joe.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:75
+Score Levels:49,24

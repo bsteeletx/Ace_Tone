@@ -1,0 +1,18 @@
+Song Title:Yellow Ledbetter
+Name of Chord:Emaj,Bmaj,Amaj,Emaj
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:EG#B,BD#F#,AC#E,EG#B
+Chord Sounds:Audio/Emaj Chord.wav
+Chord Sounds:Audio/Bmaj Chord.wav
+Chord Sounds:Audio/Amaj Chord.wav
+Chord Sounds:Audio/Emaj Chord.wav
+Count Off:Audio/Yellow Ledbetter Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Yellow Ledbetter Drum Loop.m4a
+Reward Music:Audio/Yellow Ledbetter.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:30
+Score Levels:19,9

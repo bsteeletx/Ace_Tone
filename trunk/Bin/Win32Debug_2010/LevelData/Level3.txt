@@ -1,0 +1,18 @@
+Song Title:Holiday
+Name of Chord:F5,Db5,Ab5,Eb5
+Sharps:0
+Flats:1
+Background Screen:Images/Level1/background.png
+Chord Progression:FC,DbAb,AbEb,EbBb
+Chord Sounds:Audio/F5 Chord.wav
+Chord Sounds:Audio/Db5 Chord.wav
+Chord Sounds:Audio/Ab5 Chord.wav
+Chord Sounds:Audio/Eb5 Chord.wav
+Count Off:Audio/Holiday Off.wav
+Count Off Length:1263
+Background Music:Audio/Holiday Drum Loop.m4a
+Reward Music:Audio/Holiday.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:30
+Score Levels:19,9

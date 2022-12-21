@@ -1,0 +1,20 @@
+Song Title:My Cherie Amour
+Name of Chord:Amaj7,Gmaj,Gmaj7,Dmaj7,Amaj,Emaj
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:AC#EG#,GBD,GBDF#,DF#AC#,AC#E,EG#B
+Chord Sounds:Audio/Amaj7 Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Chord Sounds:Audio/Gmaj7 Chord.wav
+Chord Sounds:Audio/Dmaj7 Chord.wav
+Chord Sounds:Audio/Amaj Chord.wav
+Chord Sounds:Audio/Emaj7 Chord.wav
+Count Off:Audio/My Cherie Amour Count Off.wav
+Count Off Length:1263
+Background Music:Audio/My Cherie Amour Drum Loop.m4a
+Reward Music:Audio/My Cherie Amour.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:60
+Score Levels:39,19

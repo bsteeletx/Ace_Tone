@@ -1,0 +1,51 @@
+Mute On.png:0:0:512:512
+Mute Off.png:0:512:512:512
+Record.png:512:0:297:298
+Twitter-Logo.png:809:0:205:166
+FB-Logo.png:512:298:144:144
+restart.png:809:166:128:128
+RedTab.png:656:298:202:78
+DarkTab.png:512:442:202:78
+itunes_button.png:656:376:177:66
+FB-Like.png:858:298:144:60
+Half Rest.png:937:166:63:70
+G#.png:714:442:63:70
+Quarter Rest.png:777:442:63:70
+Whole Rest.png:840:442:63:70
+Eighth Rest.png:903:442:63:70
+Whole Note.png:512:520:63:70
+D#.png:512:590:63:70
+Bf.png:512:660:63:70
+Eighth Note.png:512:730:63:69
+Ef.png:512:799:63:69
+Quarter Note.png:512:868:63:69
+D.png:512:937:63:69
+F.png:575:520:63:69
+Half Note.png:638:520:63:69
+B#.png:701:520:63:69
+A.png:764:520:63:69
+C.png:575:589:62:70
+C#.png:575:659:62:70
+Full_pick.png:575:729:62:70
+B.png:575:799:62:70
+Gf.png:575:869:62:70
+Af.png:575:939:62:70
+Cf.png:637:589:62:70
+A#.png:637:659:62:70
+Ff.png:827:520:62:69
+G.png:889:520:62:69
+F#.png:951:520:62:69
+E.png:637:729:62:69
+E#.png:637:798:62:69
+Df.png:637:867:62:69
+PreviewPlay_button.png:833:376:65:65
+Settings_button.png:937:236:60:60
+UIPause.png:966:442:50:69
+guitar.png:898:376:43:42
+Top_pick.png:941:376:53:34
+Right_pick.png:637:936:33:45
+Bottom_pick.png:637:981:38:39
+Left_pick.png:699:589:32:45
+SharpSymbol.png:1014:0:4:10
+FlatSymbol.png:1018:0:4:10
+note.png:1014:10:6:6

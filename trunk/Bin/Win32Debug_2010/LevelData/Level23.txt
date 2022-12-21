@@ -1,0 +1,18 @@
+Song Title:Landslide
+Name of Chord:Cmaj,Gmaj/B,Amin7,Gmaj/B
+Sharps:0
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:CEG,BDG,ACEG,BDG
+Chord Sounds:Audio/Cmaj Chord.wav
+Chord Sounds:Audio/Gmaj/B Chord.wav
+Chord Sounds:Audio/Amin7 Chord.wav
+Chord Sounds:Audio/Gmaj/B Chord.wav
+Count Off:Audio/Landslide Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Landslide Drum Loop.m4a
+Reward Music:Audio/Landslide.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:60
+Score Levels:39,19

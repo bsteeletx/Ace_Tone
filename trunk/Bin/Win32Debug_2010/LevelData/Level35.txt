@@ -1,0 +1,18 @@
+Song Title:Wonderwall
+Name of Chord:Emin7,Gmaj,Dsus4,A7sus4
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:EGBD,GBD,DGA,AC#EG
+Chord Sounds:Audio/Emin7 Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Chord Sounds:Audio/Dsus4 Chord.wav
+Chord Sounds:Audio/A7sus4 Chord.wav
+Count Off:Audio/Wonderwall Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Wonderwall Drum Loop.m4a
+Reward Music:Audio/Wonderwall.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:75
+Score Levels:49,24

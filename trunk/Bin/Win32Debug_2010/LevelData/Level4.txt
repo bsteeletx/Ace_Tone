@@ -1,0 +1,18 @@
+Song Title:What I Like About You
+Name of Chord:Emaj,Amaj,Dmaj,Amaj
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:EG#B,AC#E,DF#A,AC#E
+Chord Sounds:Audio/Emaj Chord.wav
+Chord Sounds:Audio/Amaj Chord.wav
+Chord Sounds:Audio/Dmaj Chord.wav
+Chord Sounds:Audio/Amaj Chord.wav
+Count Off:Audio/What I Like About You Count Off.wav
+Count Off Length:1263
+Background Music:Audio/What I Like About You Drum Loop.m4a
+Reward Music:Audio/What I Like About You.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:30
+Score Levels:19,9

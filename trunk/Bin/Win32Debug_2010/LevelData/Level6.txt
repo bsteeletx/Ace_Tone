@@ -1,0 +1,19 @@
+Song Title:Paradise City
+Name of Chord:Gmaj,Cmaj,Fmaj,Cmaj,Gmaj
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:GBD,CEG,FAC,CEG,GBD
+Chord Sounds:Audio/Gmaj Chord.wav
+Chord Sounds:Audio/Cmaj Chord.wav
+Chord Sounds:Audio/Fmaj Chord.wav
+Chord Sounds:Audio/Cmaj Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Count Off:Audio/Paradise City Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Paradise City Drum Loop.m4a
+Reward Music:Audio/Paradise City.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:30
+Score Levels:19,9

@@ -1,0 +1,24 @@
+Song Title:Georgia On My Mind
+Name of Chord:G7,B7,Emin7,Emin7/D,C7,C#dim7,G7,E7,A7,D7
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:GBDF,BDFA,EGBD,DEGB,CEGBb,C#EGA#,GBDF,EG#BD,AC#EG,DF#AC
+Chord Sounds:Audio/G7 Chord.wav
+Chord Sounds:Audio/B7 Chord.wav
+Chord Sounds:Audio/Emin7 Chord.wav
+Chord Sounds:Audio/Emin7/D Chord.wav
+Chord Sounds:Audio/C7 Chord.wav
+Chord Sounds:Audio/C#dim7 Chord.wav
+Chord Sounds:Audio/G7 Chord.wav
+Chord Sounds:Audio/E7 Chord.wav
+Chord Sounds:Audio/A7 Chord.wav
+Chord Sounds:Audio/D7 Chord.wav
+Count Off:Audio/Georgia On My Mind Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Georgia On My Mind Drum Loop.m4a
+Reward Music:Audio/Georgia On My Mind.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:60
+Score Levels:39,19

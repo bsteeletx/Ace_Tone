@@ -1,0 +1,44 @@
+Song Title:Smells Like Teen Spirit
+Name of Chord:F5,Bb5,Ab5,Db5
+A:14.285714
+A#:0.0
+Bf:0.0
+B:14.285714
+B#:0.0
+Cf:0.0
+C:14.285714
+C#:0.0
+Df:0.0
+D:14.285714
+D#:0.0
+Ef:0.0
+E:14.285714
+E#:0.0
+Ff:0.0
+F:14.285714
+F#:0.0
+Gf:0.0
+G:14.285714
+G#:0.0
+Af:0.0
+EighthNote:0.0
+EighthRest:0.0
+QuarterNote:0.0
+QuarterRest:0.0
+HalfNote:0.0
+HalfRest:0.0
+Background Screen:Images/Level2/background.png
+Background Transition:Images/Level2/Transition.png
+Chord Progression:FC,BbF,AbEb,DbAb
+Chord Sounds:Audio/F5 Chord.wav
+Chord Sounds:Audio/Bb5 Chord.wav
+Chord Sounds:Audio/Ab5 Chord.wav
+Chord Sounds:Audio/Db5 Chord.wav
+Count Off:Audio/Smells Like Teen Spirit Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Smells Like Teen Spirit Drum Loop.wav
+Reward Music:Audio/Smells Like Teen Spirit.wav
+//Tutorial Screen: 
+//Physics options here
+Time:30
+Score Levels:19,9

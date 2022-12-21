@@ -1,0 +1,20 @@
+Song Title:Friends In Low Places
+Name of Chord:Amaj,A#dim7,Bdim,Dmin,Emaj,E7
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:AC#E,A#C#EG,BDF#,DFA,EG#B,EG#BD
+Chord Sounds:Audio/Amaj Chord.wav
+Chord Sounds:Audio/A#dim7 Chord.wav
+Chord Sounds:Audio/Bdim Chord.wav
+Chord Sounds:Audio/Dmin Chord.wav
+Chord Sounds:Audio/Emaj Chord.wav
+Chord Sounds:Audio/E7 Chord.wav
+Count Off:Audio/Friends In Low Places Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Friends In Low Places Drum Loop.m4a
+Reward Music:Audio/Friends In Low Places.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:60
+Score Levels:39,19

@@ -1,0 +1,17 @@
+Song Title:Use Somebody
+Name of Chord:Cmaj,Cmaj/E,Fmaj
+Sharps:0
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:CEG,ECG,FAC
+Chord Sounds:Audio/Cmaj Chord.wav
+Chord Sounds:Audio/Cmaj/E Chord.wav
+Chord Sounds:Audio/Fmaj Chord.wav
+Count Off:Audio/Use Somebody Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Use Somebody Drum Loop.m4a
+Reward Music:Audio/Use Somebody.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:45
+Score Levels:29,14

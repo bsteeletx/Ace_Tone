@@ -1,0 +1,20 @@
+Song Title:Can’t Stand Losing You
+Name of Chord:Bbmaj,Gmin,Asus4,Bbmaj,Gmin,Asus4
+Sharps:0
+Flats:1
+Background Screen:Images/Level1/background.png
+Chord Progression:BbDF,GBbD,ADE,BbDF,DBbD,ADE
+Chord Sounds:Audio/Bbmaj Chord.wav
+Chord Sounds:Audio/Gmin Chord.wav
+Chord Sounds:Audio/Asus4 Chord.wav
+Chord Sounds:Audio/Bbmaj Chord.wav
+Chord Sounds:Audio/Gmin Chord.wav
+Chord Sounds:Audio/Asus4 Chord.wav
+Count Off:Audio/Can’t Stand Losing You Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Can’t Stand Losing You.m4a
+Reward Music:Audio/Can’t Stand Losing You.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:45
+Score Levels:29,14
