@@ -1,0 +1,18 @@
+Song Title:Float
+Name of Chord:Amin7,Amin6,Fmaj7,Amin
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:ACEG,ACEF#,FACE,ACE
+Chord Sounds:Audio/Amin7 Chord.wav
+Chord Sounds:Audio/Amin6 Chord.wav
+Chord Sounds:Audio/Fmaj7 Chord.wav
+Chord Sounds:Audio/Amin Chord.wav
+Count Off:Audio/Float Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Float Drum Loop.m4a
+Reward Music:Audio/Float.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:75
+Score Levels:49,24

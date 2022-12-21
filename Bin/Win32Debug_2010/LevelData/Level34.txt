@@ -1,0 +1,27 @@
+Song Title:Livin’ On A Prayer
+Name of Chord:Emin,Cmaj,Dmaj,Gmaj,Cmaj,Dmaj,Emin,Cmaj,Dmaj,Gmaj,Cmaj,Dmaj,D7sus4
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:EGB,CEG,DF#A,GBD,CEG,DF#A,EGB,CEG,DF#A,GBD,CEG,DF#A,DGAC
+Chord Sounds:Audio/Emin Chord.wav
+Chord Sounds:Audio/Cmaj Chord.wav
+Chord Sounds:Audio/Dmaj Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Chord Sounds:Audio/Cmaj Chord.wav
+Chord Sounds:Audio/Dmaj Chord.wav
+Chord Sounds:Audio/Emin Chord.wav
+Chord Sounds:Audio/Cmaj Chord.wav
+Chord Sounds:Audio/Dmaj Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Chord Sounds:Audio/Cmaj Chord.wav
+Chord Sounds:Audio/Dmaj Chord.wav
+Chord Sounds:Audio/D7sus4 Chord.wav
+Count Off:Audio/Livin’ On A Prayer Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Livin’ On A Prayer Drum Loop.m4a
+Reward Music:Audio/Livin’ On A Prayer.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:75
+Score Levels:49,24

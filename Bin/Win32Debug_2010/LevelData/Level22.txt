@@ -1,0 +1,18 @@
+Song Title:Simple Man
+Name of Chord:Cmaj,Gmaj,Amin,Amin7
+Sharps:0
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:CEG,GBD,ACE,ACEG
+Chord Sounds:Audio/Cmaj Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Chord Sounds:Audio/Amin Chord.wav
+Chord Sounds:Audio/Amin7 Chord.wav
+Count Off:Audio/Simple Man Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Simple Man Drum Loop.m4a
+Reward Music:Audio/Simple Man.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:60
+Score Levels:39,19

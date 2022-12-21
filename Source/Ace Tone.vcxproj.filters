@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="VietnamLib">
+      <UniqueIdentifier>{7b12b6a6-d060-4a3f-b28e-3bcda3b24738}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ace Tone">
+      <UniqueIdentifier>{2db8adfa-f495-4dec-bf97-e864108da061}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ace Tone\Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Ace Tone\Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="VietnamLib\Headers">
+      <UniqueIdentifier>{1cc94cff-597d-4ab2-ae15-66ece5690bae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="VietnamLib\Source">
+      <UniqueIdentifier>{1826e1f3-ef11-4de4-b386-249799fad0ef}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Core.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Video.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Vector.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Twitter.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Text.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\SpritePhysics.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\SpriteAnimationPhysics.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\SpriteAnimation.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Sprite.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Sound.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\RateApp.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Quaternion.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\PushNotification.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Point.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Particles.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Notification.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Music.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\MultiplayerMessage.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\MultiplayerBroadcast.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Multiplayer.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Memblock.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\InputVirtualJoystick.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\InputVirtualButton.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\InputText.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\InputPointer.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\InputJoystick.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\InputEditBox.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\InputAccelerometer.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Input.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\InAppPurchase.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\ImageChoose.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\ImageCapture.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Image.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\HTTP.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\GameCenter.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\FileZip.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\FileWrite.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\FileRead.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\File.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Facebook.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Error.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Color.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Benchmarking.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\AGKTime.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\AGKCore.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Advert.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\3DShader.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\3DPointLight.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\3DObject.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\3DDirectionalLight.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\3DCamera.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\3D.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\2DPhysicsRayCast.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\2DPhysicsJoint.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\2DPhysicsForce.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\2DPhysicsContact.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\2DPhysics.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Ace_Tone.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressBox.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ProgressStaff.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ChordDisplayBox.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Score.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteEmitter.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LivesIndicator.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsButton.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RestartButton.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MuteButton.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FailScreen.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SuccessScreen.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TutorialScreen.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelBackground.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelTimer.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SuccessSound.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FailSound.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Song.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MusicalNotes.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsScreen.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreRecord.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_TitleBar.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Lib\Vietnam\Rectangle.cpp">
+      <Filter>VietnamLib\Source</Filter>
+    </ClCompile>
+    <ClCompile Include="MagicPointer.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Tab.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Song.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Module.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_OptionsButton.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameCenterButton.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FacebookButton.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DifficultyToggle.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Slider.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RateAppButton.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ContactUsButton.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingIcon.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingScreen.cpp">
+      <Filter>Ace Tone\Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Lib\Vietnam\2DPhysics.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\2DPhysicsContact.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\2DPhysicsForce.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\2DPhysicsJoint.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\2DPhysicsRayCast.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\3D.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\3DCamera.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\3DDirectionalLight.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\3DObject.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\3DPointLight.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\3DShader.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Advert.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\AGKCore.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\AGKTime.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Benchmarking.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Color.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Error.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Facebook.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\File.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\FileRead.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\FileWrite.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\FileZip.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\GameCenter.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\HTTP.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Image.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\ImageCapture.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\ImageChoose.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\InAppPurchase.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Input.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\InputAccelerometer.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\InputEditBox.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\InputJoystick.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\InputPointer.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\InputText.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\InputVirtualButton.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\InputVirtualJoystick.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Memblock.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Multiplayer.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\MultiplayerBroadcast.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\MultiplayerMessage.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Music.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Notification.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Particles.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Point.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\PushNotifications.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Quaternion.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\RateApp.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Sound.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Sprite.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\SpriteAnimation.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\SpriteAnimationPhysics.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\SpritePhysics.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Text.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Twitter.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Vector.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Video.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Defines.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Globals.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VietnamCore.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressBox.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ProgressStaff.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ChordDisplayBox.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Score.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ace_Tone.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteEmitter.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LivesIndicator.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingsButton.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RestartButton.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MuteButton.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FailScreen.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SuccessScreen.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TutorialScreen.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelBackground.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelTimer.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SuccessSound.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FailSound.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Song.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MusicalNotes.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingsScreen.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreRecord.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu_TitleBar.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Lib\Vietnam\Rectangle.h">
+      <Filter>VietnamLib\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MagicPointer.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu_Tab.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu_Song.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu_Module.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu_OptionsButton.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameCenterButton.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FacebookButton.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DifficultyToggle.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Slider.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RateAppButton.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ContactUsButton.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingIcon.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingScreen.h">
+      <Filter>Ace Tone\Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

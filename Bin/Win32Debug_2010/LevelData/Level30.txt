@@ -1,0 +1,19 @@
+Song Title:Kashmir
+Name of Chord:D5,Bb/D,D6,D7,Dmaj
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:DA,DBbF,F#AB,DF#AB,DF#AC,DF#A
+Chord Sounds:Audio/D5 Chord.wav
+Chord Sounds:Audio/Bb/D Chord.wav
+Chord Sounds:Audio/D6 Chord.wav
+Chord Sounds:Audio/D7 Chord.wav
+Chord Sounds:Audio/Dmaj Chord.wav
+Count Off:Audio/Kashmir Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Kashmir Drum Loop.m4a
+Reward Music:Audio/Kashmir.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:75
+Score Levels:49,24

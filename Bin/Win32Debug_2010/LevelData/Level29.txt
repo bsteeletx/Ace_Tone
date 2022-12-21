@@ -1,0 +1,21 @@
+Song Title:Dream On
+Name of Chord:Fmin,Cmin,Fmin6,Bbmin6,Fmin,Fsus4,Csus4
+Sharps:0
+Flats:1
+Background Screen:Images/Level1/background.png
+Chord Progression:FAbC,CEbG,FAbCD,BbDbFG,FAbC,FBbC,CFG
+Chord Sounds:Audio/Fmin Chord.wav
+Chord Sounds:Audio/Cmin Chord.wav
+Chord Sounds:Audio/Fmin6 Chord.wav
+Chord Sounds:Audio/Bbmin6 Chord.wav
+Chord Sounds:Audio/Fmin Chord.wav
+Chord Sounds:Audio/Fsus4 Chord.wav
+Chord Sounds:Audio/Csus4 Chord.wav
+Count Off:Audio/Dream On Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Dream On Drum Loop.m4a
+Reward Music:Audio/Dream On Bop.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:75
+Score Levels:49,24

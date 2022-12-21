@@ -1,0 +1,19 @@
+Song Title:Day Tripper
+Name of Chord:F#7,A7,G#7,C#7,B7
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:F#A#C#E,AC#EG,G#B#D#F#,C#E#G#B,BD#F#A
+Chord Sounds:Audio/F#7 Chord.wav
+Chord Sounds:Audio/A7 Chord.wav
+Chord Sounds:Audio/G#7 Chord.wav
+Chord Sounds:Audio/C#7 Chord.wav
+Chord Sounds:Audio/B7 Chord.wav
+Count Off:Audio/Day Tripper Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Day Tripper Drum Loop.m4a
+Reward Music:Audio/Day Tripper.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:45
+Score Levels:29,14

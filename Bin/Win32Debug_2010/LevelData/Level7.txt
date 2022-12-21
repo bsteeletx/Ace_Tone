@@ -1,0 +1,18 @@
+Song Title:I’m Yours
+Name of Chord:Bmaj,F#maj,G#min,Emaj
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:BD#F#,F#A#C#,G#BD#,EG#B
+Chord Sounds:Audio/Bmaj Chord.wav
+Chord Sounds:Audio/F#maj Chord.wav
+Chord Sounds:Audio/G#min Chord.wav
+Chord Sounds:Audio/Emaj Chord.wav
+Count Off:Audio/I’m Yours Count Off.wav
+Count Off Length:1263
+Background Music:Audio/I’m Yours Drum Loop.m4a
+Reward Music:Audio/I’m Yours.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:30
+Score Levels:19,9

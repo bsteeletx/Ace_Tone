@@ -1,0 +1,23 @@
+Song Title:Wish You Were Here
+Name of Chord:Emin7,Gmaj,Emin7,Gmaj,Emin7,Asus4,Emin7,Asus4,Gmaj
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:EGBD,GBD,EGBD,GBD,EGBD,ADE,EGBD,ADE,GBD
+Chord Sounds:Audio/Emin7 Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Chord Sounds:Audio/Emin7 Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Chord Sounds:Audio/Emin7 Chord.wav
+Chord Sounds:Audio/Asus4 Chord.wav
+Chord Sounds:Audio/Emin7 Chord.wav
+Chord Sounds:Audio/Asus4 Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Count Off:Audio/Wish You Were Here Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Wish You Were Here Drum Loop.m4a
+Reward Music:Audio/Wish You Were Here.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:60
+Score Levels:39,19

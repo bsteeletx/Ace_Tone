@@ -1,0 +1,18 @@
+Song Title:Everlong
+Name of Chord:F#5/D,F#5/B,D5/G,F#5/D
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:DF#C#,BF#C#,GDA,DF#C#
+Chord Sounds:Audio/F#5/D Chord.wav
+Chord Sounds:Audio/F#5/B Chord.wav
+Chord Sounds:Audio/D5/G Chord.wav
+Chord Sounds:Audio/F#5/D Chord.wav
+Count Off:Audio/Everlong Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Everlong Drum Loop.m4a
+Reward Music:Audio/Everlong.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:45
+Score Levels:29,14

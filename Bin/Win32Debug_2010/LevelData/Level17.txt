@@ -1,0 +1,21 @@
+Song Title:House Of The Rising Sun
+Name of Chord:Amin,Cmaj,Dmaj,Fmaj,Amin,Cmaj,E7
+Sharps:0
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:ACE,CEG,DF#A,FAC,ACE,CEG,EG#BD
+Chord Sounds:Audio/Amin Chord.wav
+Chord Sounds:Audio/Cmaj Chord.wav
+Chord Sounds:Audio/Dmaj Chord.wav
+Chord Sounds:Audio/Fmaj Chord.wav
+Chord Sounds:Audio/Amin Chord.wav
+Chord Sounds:Audio/Cmaj Chord.wav
+Chord Sounds:Audio/E7 Chord.wav
+Count Off:Audio/House Of The Rising Sun Count Off.wav
+Count Off Length:1263
+Background Music:Audio/House Of The Rising Sun Drum Loop.m4a
+Reward Music:Audio/House Of The Rising Sun.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:45
+Score Levels:29,14

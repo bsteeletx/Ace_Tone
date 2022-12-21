@@ -1,0 +1,19 @@
+PARSER ERROR
+------------
+Irregular number of brackets at line 127.
+
+PROGRAM TRACE
+-------------
+(Backdrop[3].Middleground, 0
+SetSpriteVisible(Backdrop[3].Middl
+
+ERROR TRACE
+-----------
+Failed to 'CMathOp::DoValue::FindHighestPres'
+Failed to 'DoExpressionList::DoExpressionListString'
+Failed to 'DoInstruction::Do ExpressionList'
+Failed to 'DoUserFunctionCall::DoInstruction'
+Failed to 'DoStatement(TokenID)'
+Failed to 'DoBlock(0)'
+Failed to 'MakeStatements'
+Failed to Parse Program (MakeDBM->MakeProgram)'

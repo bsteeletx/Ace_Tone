@@ -1,0 +1,186 @@
+Fail:Fail
+Paused:Paused
+Success:Success
+Settings:Settings
+Tutorial:Tutorial
+Main Menu:Main Menu
+Next Song:Next Song
+Tab1:Group 1
+Tab1ModuleCount:3
+Tab2:Group 2
+Tab2ModuleCount:3
+Tab3:Group 3
+Tab3ModuleCount:3
+Tab4:Group 4
+Tab4ModuleCount:3
+Tab1Module1SongCount:3
+Tab1Module2SongCount:3
+Tab1Module3SongCount:3
+Tab2Module1SongCount:3
+Tab2Module2SongCount:3
+Tab2Module3SongCount:3
+Tab3Module1SongCount:3
+Tab3Module2SongCount:3
+Tab3Module3SongCount:3
+Tab4Module1SongCount:3
+Tab4Module2SongCount:3
+Tab4Module3SongCoung:3
+Tab5:Shop
+Module1:Module 1 Fifth (Power) Chords
+Module2:Module 2 Major Triads 
+Module3:Module 3 Minor Triads
+Module4:Module 4 Sustained (Sus4) Chords
+Module5:Module 5 Slash Chords
+Module6:Module 6 Dominant 7th Chords
+Module7:Module 7 Major 7th Chords
+Module8:Module 8 Minor 7th Chords
+Module9:Module 9 Diminished 7th Chords
+Module10:Module 10 6th (13th) Chords (Major and Minor) 
+Module9:Module 11 9th Chords (Major and Minor) 
+Module10:Module 12 Dominant 7th Suspended Chords
+Song000: Blitzkrieg Bop
+Song001: Smells Like Teen Spirit
+Song002: Holiday
+Song010: What I Like About You
+Song011: Yellow Ledbetter
+Song012: Paradise City
+Song020: I'm Yours
+Song021: Say it Aint' So
+Song022: Get Lucky
+Song030: Can't Stand Losing You
+Song031: Free Fallin'
+Song032: Alive
+Song100: Use Somebody
+Song101: Highway to Hell
+Song102: Everlong
+Song110: California Dreamin'
+Song111: House of the Rising Sun
+Song112: Day Tripper
+Song120: Kiss Me
+Song121: What's Going On
+Song122: My Cherie Amour
+Song130: Simple Man
+Song131: Landslide
+Song132: Wish You Were Here
+Song200: This Love
+Song201: Friends in Low Places
+Song202: Georgia on My Mind
+Song210: Float
+Song211: Dream On
+Song212: Kashmir
+Song220: Drive
+Song221: Hey Joe
+Song222: Wish You Were Here
+Song230: Livin' On A Prayer
+Song231: Wonderwall
+Song232: A Hard Day's Night
+Artist000: The Ramones
+Artist001: Nirvana
+Artist002: Green Day
+Artist010: The Romantics
+Artist011: Pearl Jam
+Artist012: Guns N' Roses
+Artist020: Jason Mraz
+Artist021: Weezer
+Artist022: Daft Punk
+Artist030: The Police
+Artist031: Tom Petty
+Artist032: Pearl Jam
+Artist100: Kings of Leon
+Artist101: AC/DC
+Artist102: Foo Fighters
+Artist110: The Mamas & the Papas
+Artist111: The Animals
+Artist112: The Beatles
+Artist120: Sixpence None the Richer
+Artist121: Marvin Gaye
+Artist122: Stevie Wonder
+Artist130: Lynryd Skynyrd
+Artist131: Fleetwood Mac
+Artist132: Pink Floyd
+Artist200: Maroon 5
+Artist201: Garth Brooks
+Artist202: Ray Charles
+Artist210: Flogging Molly
+Artist211: Aerosmith
+Artist212: Led Zepplin
+Artist220: Incubus
+Artist221: Jimi Hendrix
+Artist222: Incubus
+Artist230: Bon Jovi
+Artist231: Oasis
+Artist332: The Beatles
+
+iTunes000: https://itunes.apple.com/us/album/blitzkrieg-bop/id853504022?i=853504076
+iTunes001: https://itunes.apple.com/us/album/smells-like-teen-spirit/id485495703?i=485495704
+iTunes002: https://itunes.apple.com/us/album/holiday-live/id417565785?i=417565793
+iTunes010: https://itunes.apple.com/us/album/what-i-like-about-you/id203279456?i=203280224
+iTunes011: https://itunes.apple.com/us/album/yellow-ledbetter/id217298917?i=217299214
+iTunes012: https://itunes.apple.com/us/album/paradise-city/id113736?i=113722
+iTunes020: https://itunes.apple.com/us/album/im-yours/id277635758?i=277635828
+iTunes021: https://itunes.apple.com/us/album/say-it-aint-so/id115255?i=115247
+iTunes022: https://itunes.apple.com/us/album/get-lucky-feat.-pharrell-williams/id617154241?i=617154366
+iTunes030: https://itunes.apple.com/us/album/cant-stand-losing-you/id110871?i=110837
+iTunes031: https://itunes.apple.com/us/album/free-fallin/id5277170?i=5277151
+iTunes032: https://itunes.apple.com/us/album/alive/id425465247?i=425465319
+iTunes100: https://itunes.apple.com/us/album/use-somebody/id291106817?i=291106870
+iTunes101: Ahttps://itunes.apple.com/us/album/highway-to-hell/id574043989?i=574044008
+iTunes102: https://itunes.apple.com/us/album/everlong/id334450811?i=334450910
+iTunes110: https://itunes.apple.com/us/album/california-dreamin/id505036?i=504878
+iTunes111: https://itunes.apple.com/us/album/house-of-the-rising-sun/id78258824?i=78258826
+iTunes112: https://itunes.apple.com/us/album/day-tripper/id458032395?i=458032408
+iTunes120: https://itunes.apple.com/us/album/kiss-me/id4510323?i=4510200
+iTunes121: https://itunes.apple.com/us/album/whats-going-on/id250038554?i=250038575
+iTunes122: https://itunes.apple.com/us/album/my-cherie-amour/id81078306?i=81159876
+iTunes130: https://itunes.apple.com/us/album/simple-man/id2581299?i=2581179
+iTunes131: https://itunes.apple.com/us/album/landslide/id309646617?i=309646673
+iTunes132: https://itunes.apple.com/us/album/wish-you-were-here/id700053987?i=700058019
+iTunes200: https://itunes.apple.com/us/album/this-love/id252382416?i=252382425
+iTunes201: https://itunes.apple.com/us/album/friends-in-low-places/id219092796?i=219093291
+iTunes202: https://itunes.apple.com/us/album/georgia-on-my-mind/id528760813?i=528760827
+iTunes210: https://itunes.apple.com/us/album/float/id283975692?i=283975785
+iTunes211: https://itunes.apple.com/us/album/dream-on/id457003264?i=457003287
+iTunes212: https://itunes.apple.com/us/album/kashmir/id266075192?i=266075769
+iTunes220: https://itunes.apple.com/us/album/drive/id187454164?i=187454421
+iTunes221: https://itunes.apple.com/us/album/hey-joe/id344799413?i=344799698
+iTunes222: https://itunes.apple.com/us/album/wish-you-were-here/id315710875?i=315710893
+iTunes230: https://itunes.apple.com/us/album/livin-on-a-prayer/id122814?i=122780
+iTunes231: https://itunes.apple.com/us/album/wonderwall/id373957802?i=373957838
+iTunes332: https://itunes.apple.com/us/album/a-hard-days-night/id458032395?i=458032401
+Preview000: Audio/Blitzkrieg Bop Preview.wav
+Preview001: Audio/Smells Like Teen Spirit Preview.wav
+Preview002: Audio/Holiday Preview.wav
+Preview010: Audio/What I Like About You Preview.wav
+Preview011: Audio/Yellow Ledbetter Preview.wav
+Preview012: Audio/Paradise City Preview.wav
+Preview020: Audio/I'm Yours Preview.wav
+Preview021: Audio/Say it Aint' So Preview.wav
+Preview022: Audio/Get Lucky Preview.wav
+Preview030: Audio/Can't Stand Losing You Preview.wav
+Preview031: Audio/Free Fallin' Preview.wav
+Preview032: Audio/Alive Preview.wav
+Preview100: Audio/Use Somebody Preview.wav
+Preview101: Audio/Highway to Hell Preview.wav
+Preview102: Audio/Everlong Preview.wav
+Preview110: Audio/California Dreamin' Preview.wav
+Preview111: Audio/House of the Rising Sun Preview.wav
+Preview112: Audio/Day Tripper Preview.wav
+Preview120: Audio/Kiss Me Preview.wav
+Preview121: Audio/What's Going On Preview.wav
+Preview122: Audio/My Cherie Amour Preview.wav
+Preview130: Audio/Simple Man Preview.wav
+Preview131: Audio/Landslide Preview.wav
+Preview132: Audio/Wish You Were Here Preview.wav
+Preview200: Audio/This Love Preview.wav
+Preview201: Audio/Friends in Low Places Preview.wav
+Preview202: Audio/Georgia on My Mind Preview.wav
+Preview210: Audio/Float Preview.wav
+Preview211: Audio/Dream On Preview.wav
+Preview212: Audio/Kashmir Preview.wav
+Preview220: Audio/Drive Preview.wav
+Preview221: Audio/Hey Joe Preview.wav
+Preview222: Audio/Wish You Were Here Preview.wav
+Preview230: Audio/Livin' On A Prayer Preview.wav
+Preview231: Audio/Wonderwall Preview.wav
+Preview332: Audio/A Hard Day's Night Preview.wav
+

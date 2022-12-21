@@ -1,0 +1,43 @@
+Song Title:Blitzkrieg Bop
+Name of Chord:A5,D5,E5
+A:14.285714
+A#:0.0
+Bf:0.0
+B:14.285714
+B#:0.0
+Cf:0.0
+C:14.285714
+C#:0.0
+Df:0.0
+D:14.285714
+D#:0.0
+Ef:0.0
+E:14.285714
+E#:0.0
+Ff:0.0
+F:14.285714
+F#:0.0
+Gf:0.0
+G:14.285714
+G#:0.0
+Af:0.0
+EighthNote:0.0
+EighthRest:0.0
+QuarterNote:0.0
+QuarterRest:0.0
+HalfNote:0.0
+HalfRest:0.0
+Background Screen:Images/Level1/background.png
+Background Transition:Images/Level1/Transition.png
+Chord Progression:AE,DA,EB
+Chord Sounds:Audio/A5 Chord.wav
+Chord Sounds:Audio/D5 Chord.wav
+Chord Sounds:Audio/E5 Chord.wav
+Count Off:Audio/Blitzkreig Bop Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Blitzkreig Bop Drum Loop.m4a
+Reward Music:Audio/Blitzkreig Bop.wav
+//Tutorial Screen: 
+//Physics options here
+Time:30
+Score Levels:19,9

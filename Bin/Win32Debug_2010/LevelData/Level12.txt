@@ -1,0 +1,24 @@
+Song Title:Alive
+Name of Chord:Amaj,Asus4,Amaj,Asus4,Amaj,Asus4,Amaj,Asus4,Fmaj,Cmaj
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:AC#E,ADE,AC#E,ADE,AC#E,ADE,AC#E,ADE,Fmaj,Cmaj
+Chord Sounds:Audio/Amaj Chord.wav
+Chord Sounds:Audio/Asus4 Chord.wav
+Chord Sounds:Audio/Amaj Chord.wav
+Chord Sounds:Audio/Asus4 Chord.wav
+Chord Sounds:Audio/Amaj Chord.wav
+Chord Sounds:Audio/Asus4 Chord.wav
+Chord Sounds:Audio/Amaj Chord.wav
+Chord Sounds:Audio/Asus4 Chord.wav
+Chord Sounds:Audio/Fmaj Chord.wav
+Chord Sounds:Audio/Cmaj Chord.wav
+Count Off:Audio/Alive Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Alive Drum Loop.m4a
+Reward Music:Audio/Alive.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:45
+Score Levels:29,14

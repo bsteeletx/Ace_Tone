@@ -1,0 +1,18 @@
+Song Title:Highway To Hell
+Name of Chord:Amaj,Dmaj/A,Gmaj,Dmaj/F#
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:AC#E,ADF#,GBD,F#AD
+Chord Sounds:Audio/Amaj Chord.wav
+Chord Sounds:Audio/Dmaj/A Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Chord Sounds:Audio/Dmaj/F# Chord.wav
+Count Off:Audio/Highway To Hell Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Highway To Hell Drum Loop.m4a
+Reward Music:Audio/Highway To Hell.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:45
+Score Levels:29,14

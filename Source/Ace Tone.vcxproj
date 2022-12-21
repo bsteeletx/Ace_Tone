@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{147BF424-49C6-4C6D-A6F1-A38D1A0850DA}</ProjectGuid>
+    <RootNamespace>SmackIt</RootNamespace>
+    <Keyword>Win32Proj</Keyword>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>NotSet</CharacterSet>
+    <WholeProgramOptimization>false</WholeProgramOptimization>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>NotSet</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.40219.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(SolutionDir)..\Game\$(PlatformName)$(Configuration)_2010\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(SolutionDir)..\Temp\$(ProjectName)$(PlatformName)$(Configuration)_2010\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Configuration)\</IntDir>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <TargetName>$(ProjectName)$(PlatformName)$(Configuration)</TargetName>
+    <IncludePath>$(SolutionDir)..\Engine\common\include\;$(SolutionDir);$(SolutionDir)..\Lib\;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)..\Lib\;$(VCInstallDir)atlmfc\lib;$(FrameworkSDKDir)\lib;$(WindowsSdkDir)lib;$(VCInstallDir)lib;$(SolutionDir)..\Engine\platform\windows\Lib\VS2010\Debug\;$(DXSDK_DIR)\Lib\x86</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>$(SolutionDir)..\Engine\common\include\;$(IADP_SDK_DIR)\Cpp\include;/c/include;$(SolutionDir)..\Lib\Vietnam\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>AGKWINDOWS;WIN32;_DEBUG;_WINDOWS;IDE_VS2008;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MinimalRebuild>false</MinimalRebuild>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+      <DisableSpecificWarnings>4996;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>winmm.lib;AGKWindows.lib;Wininet.lib;OpenGL32.lib;dxguid.lib;locationapi.lib;Quartz.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)/$(TargetName)$(TargetExt)</OutputFile>
+      <AdditionalLibraryDirectories>..\Engine\platform\windows\Lib\VS2010\Debug;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <IgnoreAllDefaultLibraries>
+      </IgnoreAllDefaultLibraries>
+      <IgnoreSpecificDefaultLibraries>atlsd.lib</IgnoreSpecificDefaultLibraries>
+      <DelayLoadDLLs>Dwmapi.dll;%(DelayLoadDLLs)</DelayLoadDLLs>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <TargetMachine>MachineX86</TargetMachine>
+      <AdditionalManifestDependencies>%(AdditionalManifestDependencies)</AdditionalManifestDependencies>
+      <GenerateMapFile>true</GenerateMapFile>
+      <MapFileName>$(TargetDir)$(TargetName).map</MapFileName>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <Optimization>Full</Optimization>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <AdditionalIncludeDirectories>..\..\common\Include;..\..\common;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>AGKWINDOWS;WIN32;NDEBUG;_WINDOWS;IDE_VS2008;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>AGKWindows.lib;OpenGL32.lib;Winmm.lib;dwmapi.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>Final\$(ProjectName).exe</OutputFile>
+      <AdditionalLibraryDirectories>..\..\platform\windows\Lib\VS2010\Release;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <DelayLoadDLLs>Dwmapi.dll;%(DelayLoadDLLs)</DelayLoadDLLs>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <OptimizeReferences>true</OptimizeReferences>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <TargetMachine>MachineX86</TargetMachine>
+      <IgnoreSpecificDefaultLibraries>atls.lib</IgnoreSpecificDefaultLibraries>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Lib\Vietnam\2DPhysics.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\2DPhysicsContact.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\2DPhysicsForce.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\2DPhysicsJoint.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\2DPhysicsRayCast.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\3D.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\3DCamera.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\3DDirectionalLight.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\3DObject.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\3DPointLight.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\3DShader.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Advert.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\AGKCore.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\AGKTime.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Benchmarking.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Color.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Error.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Facebook.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\File.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\FileRead.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\FileWrite.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\FileZip.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\GameCenter.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\HTTP.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Image.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\ImageCapture.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\ImageChoose.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\InAppPurchase.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Input.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\InputAccelerometer.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\InputEditBox.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\InputJoystick.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\InputPointer.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\InputText.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\InputVirtualButton.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\InputVirtualJoystick.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Memblock.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Multiplayer.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\MultiplayerBroadcast.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\MultiplayerMessage.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Music.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Notification.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Particles.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Point.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\PushNotification.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Quaternion.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\RateApp.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Rectangle.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Sound.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Sprite.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\SpriteAnimation.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\SpriteAnimationPhysics.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\SpritePhysics.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Text.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Twitter.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Vector.cpp" />
+    <ClCompile Include="..\Lib\Vietnam\Video.cpp" />
+    <ClCompile Include="Ace_Tone.cpp" />
+    <ClCompile Include="ChordDisplayBox.cpp" />
+    <ClCompile Include="ContactUsButton.cpp" />
+    <ClCompile Include="DifficultyToggle.cpp" />
+    <ClCompile Include="FacebookButton.cpp" />
+    <ClCompile Include="FailScreen.cpp" />
+    <ClCompile Include="FailSound.cpp" />
+    <ClCompile Include="GameCenterButton.cpp" />
+    <ClCompile Include="LevelBackground.cpp" />
+    <ClCompile Include="LevelTimer.cpp" />
+    <ClCompile Include="LivesIndicator.cpp" />
+    <ClCompile Include="LoadingIcon.cpp" />
+    <ClCompile Include="LoadingScreen.cpp" />
+    <ClCompile Include="MagicPointer.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="Menu_OptionsButton.cpp" />
+    <ClCompile Include="Menu_Song.cpp" />
+    <ClCompile Include="Menu_Module.cpp" />
+    <ClCompile Include="Menu_Tab.cpp" />
+    <ClCompile Include="Menu_TitleBar.cpp" />
+    <ClCompile Include="MusicalNotes.cpp" />
+    <ClCompile Include="MuteButton.cpp" />
+    <ClCompile Include="ProgressStaff.cpp" />
+    <ClCompile Include="Core.cpp" />
+    <ClCompile Include="Level.cpp" />
+    <ClCompile Include="ProgressBox.cpp" />
+    <ClCompile Include="RateAppButton.cpp" />
+    <ClCompile Include="RestartButton.cpp" />
+    <ClCompile Include="Score.cpp" />
+    <ClCompile Include="ScoreRecord.cpp" />
+    <ClCompile Include="SettingsButton.cpp" />
+    <ClCompile Include="SettingsScreen.cpp" />
+    <ClCompile Include="Slider.cpp" />
+    <ClCompile Include="Song.cpp" />
+    <ClCompile Include="SpriteEmitter.cpp" />
+    <ClCompile Include="SuccessScreen.cpp" />
+    <ClCompile Include="SuccessSound.cpp" />
+    <ClCompile Include="TutorialScreen.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Lib\Vietnam\2DPhysics.h" />
+    <ClInclude Include="..\Lib\Vietnam\2DPhysicsContact.h" />
+    <ClInclude Include="..\Lib\Vietnam\2DPhysicsForce.h" />
+    <ClInclude Include="..\Lib\Vietnam\2DPhysicsJoint.h" />
+    <ClInclude Include="..\Lib\Vietnam\2DPhysicsRayCast.h" />
+    <ClInclude Include="..\Lib\Vietnam\3D.h" />
+    <ClInclude Include="..\Lib\Vietnam\3DCamera.h" />
+    <ClInclude Include="..\Lib\Vietnam\3DDirectionalLight.h" />
+    <ClInclude Include="..\Lib\Vietnam\3DObject.h" />
+    <ClInclude Include="..\Lib\Vietnam\3DPointLight.h" />
+    <ClInclude Include="..\Lib\Vietnam\3DShader.h" />
+    <ClInclude Include="..\Lib\Vietnam\Advert.h" />
+    <ClInclude Include="..\Lib\Vietnam\AGKCore.h" />
+    <ClInclude Include="..\Lib\Vietnam\AGKTime.h" />
+    <ClInclude Include="..\Lib\Vietnam\Benchmarking.h" />
+    <ClInclude Include="..\Lib\Vietnam\Color.h" />
+    <ClInclude Include="..\Lib\Vietnam\Error.h" />
+    <ClInclude Include="..\Lib\Vietnam\Facebook.h" />
+    <ClInclude Include="..\Lib\Vietnam\File.h" />
+    <ClInclude Include="..\Lib\Vietnam\FileRead.h" />
+    <ClInclude Include="..\Lib\Vietnam\FileWrite.h" />
+    <ClInclude Include="..\Lib\Vietnam\FileZip.h" />
+    <ClInclude Include="..\Lib\Vietnam\GameCenter.h" />
+    <ClInclude Include="..\Lib\Vietnam\HTTP.h" />
+    <ClInclude Include="..\Lib\Vietnam\Image.h" />
+    <ClInclude Include="..\Lib\Vietnam\ImageCapture.h" />
+    <ClInclude Include="..\Lib\Vietnam\ImageChoose.h" />
+    <ClInclude Include="..\Lib\Vietnam\InAppPurchase.h" />
+    <ClInclude Include="..\Lib\Vietnam\Input.h" />
+    <ClInclude Include="..\Lib\Vietnam\InputAccelerometer.h" />
+    <ClInclude Include="..\Lib\Vietnam\InputEditBox.h" />
+    <ClInclude Include="..\Lib\Vietnam\InputJoystick.h" />
+    <ClInclude Include="..\Lib\Vietnam\InputPointer.h" />
+    <ClInclude Include="..\Lib\Vietnam\InputText.h" />
+    <ClInclude Include="..\Lib\Vietnam\InputVirtualButton.h" />
+    <ClInclude Include="..\Lib\Vietnam\InputVirtualJoystick.h" />
+    <ClInclude Include="..\Lib\Vietnam\Memblock.h" />
+    <ClInclude Include="..\Lib\Vietnam\Multiplayer.h" />
+    <ClInclude Include="..\Lib\Vietnam\MultiplayerBroadcast.h" />
+    <ClInclude Include="..\Lib\Vietnam\MultiplayerMessage.h" />
+    <ClInclude Include="..\Lib\Vietnam\Music.h" />
+    <ClInclude Include="..\Lib\Vietnam\Notification.h" />
+    <ClInclude Include="..\Lib\Vietnam\Particles.h" />
+    <ClInclude Include="..\Lib\Vietnam\Point.h" />
+    <ClInclude Include="..\Lib\Vietnam\PushNotifications.h" />
+    <ClInclude Include="..\Lib\Vietnam\Quaternion.h" />
+    <ClInclude Include="..\Lib\Vietnam\RateApp.h" />
+    <ClInclude Include="..\Lib\Vietnam\Rectangle.h" />
+    <ClInclude Include="..\Lib\Vietnam\Sound.h" />
+    <ClInclude Include="..\Lib\Vietnam\Sprite.h" />
+    <ClInclude Include="..\Lib\Vietnam\SpriteAnimation.h" />
+    <ClInclude Include="..\Lib\Vietnam\SpriteAnimationPhysics.h" />
+    <ClInclude Include="..\Lib\Vietnam\SpritePhysics.h" />
+    <ClInclude Include="..\Lib\Vietnam\Text.h" />
+    <ClInclude Include="..\Lib\Vietnam\Twitter.h" />
+    <ClInclude Include="..\Lib\Vietnam\Vector.h" />
+    <ClInclude Include="..\Lib\Vietnam\Video.h" />
+    <ClInclude Include="Ace_Tone.h" />
+    <ClInclude Include="ChordDisplayBox.h" />
+    <ClInclude Include="ContactUsButton.h" />
+    <ClInclude Include="DifficultyToggle.h" />
+    <ClInclude Include="FacebookButton.h" />
+    <ClInclude Include="FailScreen.h" />
+    <ClInclude Include="FailSound.h" />
+    <ClInclude Include="GameCenterButton.h" />
+    <ClInclude Include="LevelBackground.h" />
+    <ClInclude Include="LevelTimer.h" />
+    <ClInclude Include="LivesIndicator.h" />
+    <ClInclude Include="LoadingIcon.h" />
+    <ClInclude Include="LoadingScreen.h" />
+    <ClInclude Include="MagicPointer.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="Menu_OptionsButton.h" />
+    <ClInclude Include="Menu_Song.h" />
+    <ClInclude Include="Menu_Module.h" />
+    <ClInclude Include="Menu_Tab.h" />
+    <ClInclude Include="Menu_TitleBar.h" />
+    <ClInclude Include="MusicalNotes.h" />
+    <ClInclude Include="MuteButton.h" />
+    <ClInclude Include="ProgressStaff.h" />
+    <ClInclude Include="Defines.h" />
+    <ClInclude Include="Globals.h" />
+    <ClInclude Include="Level.h" />
+    <ClInclude Include="ProgressBox.h" />
+    <ClInclude Include="RateAppButton.h" />
+    <ClInclude Include="RestartButton.h" />
+    <ClInclude Include="Score.h" />
+    <ClInclude Include="ScoreRecord.h" />
+    <ClInclude Include="SettingsButton.h" />
+    <ClInclude Include="SettingsScreen.h" />
+    <ClInclude Include="Slider.h" />
+    <ClInclude Include="Song.h" />
+    <ClInclude Include="SpriteEmitter.h" />
+    <ClInclude Include="SuccessScreen.h" />
+    <ClInclude Include="SuccessSound.h" />
+    <ClInclude Include="TutorialScreen.h" />
+    <ClInclude Include="VietnamCore.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

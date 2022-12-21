@@ -1,0 +1,18 @@
+Song Title:Kiss Me
+Name of Chord:Dmaj,Dmaj7,D7,Dmaj7
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:DF#A,AF#AC#,DF#AC,DF#AC#
+Chord Sounds:Audio/Dmaj Chord.wav
+Chord Sounds:Audio/Dmaj7 Chord.wav
+Chord Sounds:Audio/D7 Chord.wav
+Chord Sounds:Audio/Dmaj7 Chord.wav
+Count Off:Audio/Kiss Me Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Kiss Me Drum Loop.m4a
+Reward Music:Audio/Kiss Me.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:60
+Score Levels:39,19

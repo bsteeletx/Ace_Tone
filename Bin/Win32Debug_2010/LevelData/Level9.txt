@@ -1,0 +1,18 @@
+Song Title:Get Lucky
+Name of Chord:Bmin,Dmaj,F#min,Emaj
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:BDF#,DF#A,F#AC#,EG#B
+Chord Sounds:Audio/Bmin Chord.wav
+Chord Sounds:Audio/Dmaj Chord.wav
+Chord Sounds:Audio/F#min Chord.wav
+Chord Sounds:Audio/Emaj Chord.wav
+Count Off:Audio/Get Lucky Count Off.wav
+Count Off Length:1263
+Background Music:Audio/Get Lucky Drum Loop.m4a
+Reward Music:Audio/Get Lucky.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:30
+Score Levels:19,9

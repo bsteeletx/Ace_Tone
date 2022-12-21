@@ -1,0 +1,20 @@
+Song Title:A Hard Day’s Night
+Name of Chord:G7sus4,Gmaj,C9,Gmaj,Fmaj,Gmaj
+Sharps:1
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:GCDF,GBD,CEGD,GBD,FAC,GBD
+Chord Sounds:Audio/G7sus4 Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Chord Sounds:Audio/C9 Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Chord Sounds:Audio/Fmaj Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Count Off:Audio/A Hard Day’s Night Count Off.wav
+Count Off Length:1263
+Background Music:Audio/A Hard Day’s Night Drum Loop.m4a
+Reward Music:Audio/A Hard Day’s Night.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:75
+Score Levels:49,24

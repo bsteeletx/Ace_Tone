@@ -1,0 +1,20 @@
+Song Title:California Dreamin’
+Name of Chord:Amin,Gmaj,Fmaj,Gmaj,Esus4,E7
+Sharps:0
+Flats:0
+Background Screen:Images/Level1/background.png
+Chord Progression:ACE,GBD,FAC,GBD,EAB,EG#BD
+Chord Sounds:Audio/Amin Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Chord Sounds:Audio/Fmaj Chord.wav
+Chord Sounds:Audio/Gmaj Chord.wav
+Chord Sounds:Audio/Esus4 Chord.wav
+Chord Sounds:Audio/E7 Chord.wav
+Count Off:Audio/California Dreamin’ Count Off.wav
+Count Off Length:1263
+Background Music:Audio/California Dreamin’ Drum Loop.m4a
+Reward Music:Audio/California Dreamin’.mp3
+//Tutorial Screen: 
+//Physics options here
+Time:45
+Score Levels:29,14
